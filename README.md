@@ -1,13 +1,13 @@
-# CellAge-epigenetic-clock
+# CellPopAge-epigenetic-clock
 
-A CellAge epigenetic clock for expedited discovery of anti-ageing compounds in vitro.
+A CellPopAge epigenetic clock for expedited discovery of anti-ageing compounds in vitro.
 
 ## Installation
 
 First clone the repository to some directory using
 
 ```
-git clone git@github.com:ucl-medical-genomics/CellAge-epigenetic-clock.git
+git clone git@github.com:ucl-medical-genomics/CellPopAge-epigenetic-clock.git
 ```
 
 It is advisable to run any analysis within a virtual environment. The software in this repository requires `python3`.
