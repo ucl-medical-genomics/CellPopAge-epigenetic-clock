@@ -23,7 +23,6 @@ Then activate the environment and install the required software:
 ```
 source <NAME OF ENVIROMENT>/bin/activate
 pip install numpy
-pip install scipy
 ```
 
 for the example notebook you will also need
@@ -34,4 +33,8 @@ pip install pandas
 
 ## To Run
 
-See the python notebook on how to run [Example.ipynb](Example.ipynb)
+See the python notebook on how to run [Example.ipynb](Example.ipynb) or run from the command line using
+
+```
+python run_clock.py --beta_file <PATH TO BETA VALUES> --output_file <PATH TO OUTPUT FILE>
+```
